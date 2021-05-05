@@ -1,0 +1,137 @@
+.contact-info {
+  width: 100vw;
+  position: relative;
+  top: 50px;
+}
+
+#container-contact {
+  width: 100vw;
+}
+
+#row {
+  width: 90vw;
+}
+
+.contact_info_item {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  width: 20vw;
+  padding: 15px 15px;
+}
+
+.content_info_content {
+  position: relative;
+  left: 20px;
+}
+
+.contact_info_title {
+  color: black;
+  font-size: medium;
+  font-weight: 800;
+}
+
+.contact_info_text {
+  color: grey;
+}
+
+.contact_form {
+  height: 60vh;
+  width: 60vw;
+  position: relative;
+  top: 100px;
+  left: 250px;
+}
+
+#row1 {
+  width: 60vw;
+}
+
+#container_contact {
+  width: 60vw;
+  height: 60vh;
+  position: relative;
+  top: 100px;
+}
+
+.contact_form_container {
+  position: relative;
+  top: 0%;
+  width: 60vw;
+  height: 80vh;
+}
+
+.contact_form_title {
+  font-size: 35px;
+  font-weight: 700;
+  position: relative;
+  top: 10px;
+}
+
+#contact_form {
+  position: relative;
+  top: 30px;
+  width: 50vw;
+}
+
+.contact_form_name {
+  position: relative;
+  top: 2px;
+  left: 0%;
+  padding: 2px 2px;
+}
+
+.input_field {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.input_field[type="text"]::placeholder {
+  position: relative;
+  left: 50px;
+}
+
+.input_field[type="email"]::placeholder {
+  position: relative;
+  left: 50px;
+}
+
+.input_field[type="number"]::placeholder {
+  position: relative;
+  left: 30px;
+}
+
+.contact_form_text {
+  width: 40vw;
+  height: 25vh;
+}
+
+textarea {
+  width: 50vw;
+  height: 20vh;
+  position: relative;
+  top: 10px;
+  border: none;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+textarea::placeholder {
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+
+.contact_form_button button {
+  background-color: rgb(76, 138, 255);
+  color: white;
+  width: 150px;
+  height: 50px;
+  border: none;
+}
+
+.contact_form_button button:hover {
+  background-color: rgb(7, 90, 214);
+}
+

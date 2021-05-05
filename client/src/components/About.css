@@ -1,0 +1,109 @@
+.emp-profile{
+    height: 70vh;
+    position: relative;
+    top: 50px;
+}
+
+.profile_form{
+    height: 65vh;
+    position: relative;
+    top: 20px;
+}
+
+#row2{
+    height: 60vh;
+    margin-top: 20px;
+}
+
+.dp-image{
+    width: 65%;
+    height: 25vh;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+
+.dp-image img{
+    width: 10vw;
+    height: 25vh;
+}
+
+.profile-head{
+    position: relative;
+    top: 20px;
+}
+
+
+.profile-edit-btn{
+    width: 8vw;
+    position: relative;
+    left: 0%;
+    padding: 5px;
+    background-color: rgb(1, 112, 238);
+    color: white;
+}
+
+.profile-head h5{
+    font-weight: 800;
+}
+
+.profile-head h6{
+    font-weight: 600;
+    color: rgb(58, 124, 248);
+}
+
+
+.profile-rating span{
+    font-weight: 800;
+}
+
+.nav-items a{
+
+    font-weight: 800;
+    border-bottom: 1px solid seashell;
+}
+
+
+#home-tab{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid seashell;
+}
+
+#profile-tab{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid seashell;
+}
+
+#row3{
+    position: relative;
+    bottom: 250px;
+    left: 50px;
+}
+
+.profile-work a{
+    color: black;
+}
+
+.about-info{
+    position: relative;
+    left: -70px;
+}
+
+#myTabContent{
+    width: 36vw;
+    position: relative;
+    left: 1px;
+}
+
+#profile-details{
+    font-weight: 600;
+    padding: 5px;
+}
+
+#profile-details-list{
+    font-weight: 550;
+    color: rgba(62, 184, 255, 0.966);
+}
